@@ -1,0 +1,31 @@
+[33mcommit 349cb67357c1b24af22d8dd319d73692c704cab3[m
+Author: id-flocklab <flocklab.id@gmail.com>
+Date:   Wed Apr 22 15:45:20 2026 -0300
+
+    Initial commit
+
+[33mcommit fdf029b3de8cf85ceda1902d245c3bfb5d149f02[m
+Author: Michael Pereira <miikegonzalez8@gmail.com>
+Date:   Wed Apr 22 16:12:52 2026 -0300
+
+    Upload all built project data to repository
+    
+    Added all packaged build files of the project for distribution and testing.
+
+[33mcommit 86298f33b65ff6e3a1c8631d3a67f9a1d1922d3e[m
+Author: Michael Pereira <miikegonzalez8@gmail.com>
+Date:   Tue May 19 14:59:02 2026 -0300
+
+    build 1.0
+
+[33mcommit dfc27b5eb3f7da963153f6b629de48f0924ea2f1[m
+Author: Michael Pereira <miikegonzalez8@gmail.com>
+Date:   Tue May 19 23:57:59 2026 -0300
+
+    deleted gitignore
+
+[33mcommit 4e5385b316d4ac1dcb0145d11038bee26e9445c3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Michael Pereira <miikegonzalez8@gmail.com>
+Date:   Wed May 20 00:03:35 2026 -0300
+
+    Delete .gitignore
